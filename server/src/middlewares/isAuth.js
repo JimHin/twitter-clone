@@ -2,7 +2,7 @@ import { expressjwt } from 'express-jwt';
 import config from '../config';
 
 /**
- * We are assuming that the JWT will come in a header with the form
+ * We are assuming that the JWT will come in a Header with the form
  *
  * Authorization: Bearer ${JWT}
  */
