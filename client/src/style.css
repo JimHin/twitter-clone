@@ -8,7 +8,7 @@ body{
 .header{
     background-color: #1B2836;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -78,3 +78,14 @@ ul{
 .hr{
     color: #5b646d;
 }
+ .App-logo{
+     margin-left: 28%;
+ }
+
+ button{
+     background-color: #35abf3;
+     color: white;
+     border-radius: 5px;
+     padding-left: 20px;
+     padding-right: 20px;
+ }

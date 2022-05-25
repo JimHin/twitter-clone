@@ -30,6 +30,6 @@ function Card({ tweet }) {
   );
 }
 Card.propTypes = {
-  tweet: PropTypes.array.isRequired,
+  tweet: PropTypes.object,
 };
 export default Card;
