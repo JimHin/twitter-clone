@@ -89,3 +89,28 @@ ul{
      padding-left: 20px;
      padding-right: 20px;
  }
+
+ .formulaire{
+     border: 1px solid #5b646d;
+     background-color: #1B2836;
+     color: white;
+     margin: auto;
+     display: block;
+     width: 600px;
+     height: 400px;
+     position: absolute;
+     top: 0;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     padding: 1%;
+ }
+
+ form{
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+ }
+.registerbtn{
+    width: 100px;
+}
